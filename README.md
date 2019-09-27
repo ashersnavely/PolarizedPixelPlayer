@@ -8,4 +8,4 @@ For example, to do this in windows i need to make use of the exported User32 fun
 The other hard part is very fast image recognition so that the program can actually react to what is on screen.
 I've looked into implementing FFT, different pattern recognition algorithms and haven't quite settled yet.
 
-Whenever I have free time I might work on it a little some more, hopefully one day it will be complete :)
+Whenever I have free time I might work on it a little.
